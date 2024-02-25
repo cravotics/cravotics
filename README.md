@@ -2,6 +2,10 @@
 
 I'm a Master of Engineering student in Robotics at the University of Maryland, College Park, with a Bachelor's in Mechatronics from Anna University, Chennai. My passion lies in robotics, embedded systems, and automation. I've worked in startups on vehicular systems and special machines.
 
+## Summer 2024 Internship Aspirations 🌟
+
+As I gear up for an exhilarating summer in 2024, I'm on the lookout for the ultimate internship adventure in the realms of **Robotics, Perception, and Planning**. I'm eager to dive deep, contribute, and learn in an environment that challenges and expands my expertise. If your team is at the forefront of revolutionizing these fields, I'd be thrilled to embark on this journey together. Let's make the summer of 2024 a groundbreaking chapter in the story of robotics innovation!
+
 > "It's not who I am underneath, but what I do that defines me." - Batman
 
 ![batman](https://github.com/cravotics/personal_repo/assets/90138418/c0df7d81-c9e6-421c-9c76-166ba113513c)
