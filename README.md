@@ -20,12 +20,10 @@ As I gear up for an exhilarating year in 2024, I'm on the lookout for the ultima
 
 ## Academic Endeavors
 
-### Completed Courses - Mastered Spells 🧙‍♂️
+### Completed Courses 
 - **ENPM667 - Control of Robotic Systems**: Mastered the dynamics and control strategies essential for robotic system manipulation and navigation.
 - **ENPM662 - Introduction to Robotic Modelling**: Gained a deep understanding of the mathematical and computational models that underpin robotic movement and function.
 - **ENPM809Y - Introduction to Robotic Programming**: Acquired proficiency in programming languages and tools pivotal for developing robotic applications.
-
-### Upcoming Courses - Future Expeditions 🌌 (Destined by Summer 2024)
 - **ENPM673 - Perception for Autonomous Robots**: Set to explore the cutting-edge techniques in robot perception, enabling machines to interpret and understand their surroundings.
 - **ENPM661 - Planning for Autonomous Robots**: Will delve into the algorithms and planning strategies that allow robots to autonomously navigate and make decisions.
 - **ENPM690 - Robot Learning**: Looking forward to learning about the integration of machine learning and deep learning in robotics, transforming how robots learn from their environments and experiences.
@@ -45,6 +43,9 @@ As I gear up for an exhilarating year in 2024, I'm on the lookout for the ultima
 
 - **Mobile Manipulator Robot**: Control mechanisms in ROS 2 for mobile manipulation.
 - **Wireless Animatronic Hand**: Developed a wireless hand mimicking human gestures using Arduino.
+- **TurtleBot Challange** - Hardware project based on TurtleBot 3 using computer vison and perception concepts
+- **Autonomous Navigation using Double DQN and Dueling Architecture** - Simulating the turtlebot 3 with DQN concept alterd with Double DQN to enhance its efficency
+- **Review paper submission on Quick RRT** - our team picked a paper based on QuickRRT* and compared using simulations with other algorithm to prove it's efficency as proved by the paper In-Bae Jeong, Seung-Jae Lee, Jong-Hwan Kim, ”Quick-RRT*: Triangular inequality-based implementation of RRT* with improved initial solution and convergence rate,” Expert Systems with Applications, vol.123, 2019, pp. 82-90, ISSN 0957-4174.
 
 ## Current & Future Endeavors 🚀
 
