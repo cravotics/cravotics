@@ -58,7 +58,7 @@ TuTr Hyperloop, IIT-Madras Startup (Oct 2022 – Jul 2023)
 ---
 
 ## 🏆 Notable Projects
-### 1. **[Autonomous Navigation with Double DQN](Projects/Autonomous_Navigation.md)**
+### 1. **[Autonomous Navigation with Double DQN](https://github.com/cravotics/Intelligent-Robotic-Navigation)**
    - **Technologies:** Python, ROS 2, Gazebo, OpenAI Gym
    - Enhanced ground robot navigation by integrating **Double DQN and Dueling Architectures**, achieving a **75% improvement** in navigation success.
 
