@@ -7,8 +7,8 @@ Welcome! I'm Sai Jagadeesh, a robotics enthusiast pursuing a Master’s in Robot
 ![batman](https://github.com/cravotics/personal_repo/assets/90138418/c0df7d81-c9e6-421c-9c76-166ba113513c)
 ---
 
-## 🌟 2024 Vision
-As I navigate my journey in robotics, I am seeking an internship opportunity for Spring 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
+## 🌟 2025 Vision
+As I navigate my journey in robotics, I am seeking an internship opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
 
 ---
 
