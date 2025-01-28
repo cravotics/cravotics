@@ -8,7 +8,7 @@ Welcome! I'm Sai Jagadeesh, a robotics enthusiast pursuing a Master’s in Robot
 ---
 
 ## 🌟 2025 Vision
-As I navigate my journey in robotics, I am seeking an internship opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
+As I navigate my journey in robotics, I am seeking an entry-level full-time opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
 
 ---
 
@@ -120,3 +120,4 @@ TuTr Hyperloop, IIT-Madras Startup (Oct 2022 – Jul 2023)
 - **GitHub:** [github.com/cravotics](https://github.com/cravotics)
 
 Feel free to explore my repositories and reach out for collaborations or just to say hi!
+
