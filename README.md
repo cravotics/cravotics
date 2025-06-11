@@ -1,7 +1,7 @@
 # Sai Jagadeesh Muralikrishnan 🚀
-**Robotics Engineer | Graduate Student at the University of Maryland, College Park**
+**Robotics Engineer | M.Eng. in Robotics, University of Maryland, College Park**
 
-Welcome! I'm Sai Jagadeesh, a robotics enthusiast pursuing a Master’s in Robotics at the University of Maryland, College Park. I come with a solid background in Mechatronics from Anna University, Chennai, and hands-on experience working in startups focused on vehicular systems and automation.
+Welcome! I'm Sai Jagadeesh, a passionate robotics engineer who has recently graduated with a Master's in Robotics from the University of Maryland, College Park. I come with a solid background in Mechatronics from REC, Chennai, and hands-on experience working in startups focused on vehicular systems and automation.
 
 > "It's not who I am underneath, but what I do that defines me." – Batman 🦇
 ![batman](https://github.com/cravotics/personal_repo/assets/90138418/c0df7d81-c9e6-421c-9c76-166ba113513c)
@@ -23,10 +23,10 @@ As I navigate my journey in robotics, I am seeking an entry-level full-time oppo
 
 ## 🎓 Education
 - **University of Maryland, College Park**  
-  Master of Engineering in Robotics (Aug 2023 – May 2025)  
-  GPA: 3.71
+  Master of Engineering in Robotics (Graduated May 2025)  
+  GPA: 3.80
 
-- **Anna University, Chennai**  
+- **Rajalakshmi Engineering College (Affiliated to Anna University), Chennai**  
   Bachelor of Engineering in Mechatronics (Aug 2018 – Jul 2022)  
   GPA: 3.76
 
@@ -34,7 +34,7 @@ As I navigate my journey in robotics, I am seeking an entry-level full-time oppo
 
 ## 🔬 Research Experience
 **Graduate Research Assistant**  
-Maryland Robotics Center (Aug 2024 – Present)  
+Maryland Robotics Center (Aug 2024 – May 2025)  
 - Working on the **DARPA Triage Challenge**, focusing on developing novel physiological features for medical triage in challenging environments.
 - Integrating **Large Language Models (LLMs)** for real-time processing and analysis of sensor data.
 - Goal: Enhance early casualty prioritization in pre-hospital settings, improving interventions for life-threatening conditions.
@@ -43,7 +43,7 @@ Maryland Robotics Center (Aug 2024 – Present)
 
 ## 💼 Professional Experience
 **Graduate Teaching Assistant**  
-College of Computer, Mathematical, and Natural Sciences, University of Maryland (Aug 2024 – Present)  
+College of Computer, Mathematical, and Natural Sciences, University of Maryland (Aug 2024 – May 2025)  
 - Assisted with a Robotics course in the Applied Machine Learning program, guiding students through concepts and techniques related to UAVs and machine learning.
 
 **Perception Engineer Intern**  
