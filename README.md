@@ -1,4 +1,4 @@
-# Sai Jagadeesh Muralikrishnan 🚀 | **[Portfolio Website](https://saijagadeesh.com)**
+# Sai Jagadeesh Muralikrishnan | **[Portfolio Website](https://saijagadeesh.com)**
 **Robotics Engineer | M.Eng. in Robotics, University of Maryland, College Park**
 
 Welcome! I'm Sai Jagadeesh, a passionate robotics engineer who has recently graduated with a Master's in Robotics from the University of Maryland, College Park. I come with a solid background in Mechatronics from REC, Chennai, and hands-on experience working in startups focused on vehicular systems and automation.
@@ -7,21 +7,21 @@ Welcome! I'm Sai Jagadeesh, a passionate robotics engineer who has recently grad
 ![batman](https://github.com/cravotics/personal_repo/assets/90138418/c0df7d81-c9e6-421c-9c76-166ba113513c)
 ---
 
-## 🌟 2025 Vision
+## 2025 Vision
 As I navigate my journey in robotics, I am seeking an full-time opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
 
 ---
 
-## 🚀 About Me
-- 🤖 **Expertise:** Robotics, Machine Learning, Computer Vision
-- 💻 **Programming Languages:** Python, C++, MATLAB
-- 🛠️ **Tools and Frameworks:** ROS 2, Gazebo, Docker, SolidWorks, YOLOv8, PyTorch
-- 🏆 **Awards:** Best Paper Award (3rd place) at the International Conference on Data Science, Machine Learning & Applications 2021
-- 🌱 **Currently Learning:** Reinforcement Learning, Advanced Control Systems
+##  About Me
+- **Expertise:** Robotics, Machine Learning, Computer Vision
+- **Programming Languages:** Python, C++, MATLAB
+- **Tools and Frameworks:** ROS 2, Gazebo, Docker, SolidWorks, YOLOv8, PyTorch
+- **Awards:** Best Paper Award (3rd place) at the International Conference on Data Science, Machine Learning & Applications 2021
+- **Currently Learning:** Reinforcement Learning, Advanced Control Systems
 
 ---
 
-## 🎓 Education
+## Education
 - **University of Maryland, College Park**  
   Master of Engineering in Robotics (Graduated May 2025)  
   GPA: 3.80
@@ -32,7 +32,7 @@ As I navigate my journey in robotics, I am seeking an full-time opportunity for 
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 **Graduate Research Assistant**  
 Maryland Robotics Center (Aug 2024 – May 2025)  
 - Working on the **DARPA Triage Challenge**, focusing on developing novel physiological features for medical triage in challenging environments.
@@ -41,7 +41,7 @@ Maryland Robotics Center (Aug 2024 – May 2025)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 **Graduate Teaching Assistant**  
 College of Computer, Mathematical, and Natural Sciences, University of Maryland (Aug 2024 – May 2025)  
 - Assisted with a Robotics course in the Applied Machine Learning program, guiding students through concepts and techniques related to UAVs and machine learning.
@@ -57,7 +57,7 @@ TuTr Hyperloop, IIT-Madras Startup (Oct 2022 – Jul 2023)
 
 ---
 
-## 🏆 Notable Projects
+## Notable Projects
 ### 1. **[Autonomous Navigation with Double DQN](https://github.com/cravotics/Intelligent-Robotic-Navigation)**
    - **Technologies:** Python, ROS 2, Gazebo, OpenAI Gym
    - Enhanced ground robot navigation by integrating **Double DQN and Dueling Architectures**, achieving a **75% improvement** in navigation success.
@@ -73,32 +73,32 @@ TuTr Hyperloop, IIT-Madras Startup (Oct 2022 – Jul 2023)
 
 ---
 
-## 🌍 Current & Future Projects
-1. **RL & ROS 2 - Autonomous Navigation** 🧭  
+## Current & Future Projects
+1. **RL & ROS 2 - Autonomous Navigation** 
    Using **Reinforcement Learning** for seamless robot navigation in complex environments.
 
-2. **RL & ROS 2 - Manipulator Arm Tasks** 🤖  
+2. **RL & ROS 2 - Manipulator Arm Tasks** 
    Implementing RL to control a robotic arm for precise manipulations.
 
-3. **ROS 2 & SLAM - Exploration Robot** 🌍  
+3. **ROS 2 & SLAM - Exploration Robot** 
    Developing an exploration robot that performs real-time mapping in unknown territories.
 
-4. **Motion Planning & ROS 2 - Path Planning** 🛣️  
+4. **Motion Planning & ROS 2 - Path Planning** 
    Crafting algorithms for navigating dynamic environments.
 
-5. **Multi-Robot Coordination** 🤝  
+5. **Multi-Robot Coordination** 
    Focusing on collaborative tasks where multiple robots work together.
 
 ---
 
-## 📊 Player Stats and Gaming Interests 🎮
+## Player Stats and Gaming Interests 🎮
 - **Call of Duty: Warzone** – Immersive and intense battle royale experience.
 - **Valorant** – Combines strategy and quick reflexes.
 - **Cyberpunk 2077** – Exploring the dystopian world of **Night City**.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -115,7 +115,7 @@ TuTr Hyperloop, IIT-Madras Startup (Oct 2022 – Jul 2023)
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 - **LinkedIn:** [linkedin.com/in/sai-jagadeesh-m/](https://linkedin.com/in/sai-jagadeesh-m/)
 - **Email:** [jagkrish@umd.edu](mailto:jagkrish@umd.edu)
 - **GitHub:** [github.com/cravotics](https://github.com/cravotics)
