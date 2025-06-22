@@ -8,7 +8,7 @@ Welcome! I'm Sai Jagadeesh, a passionate robotics engineer who has recently grad
 ---
 
 ## 🌟 2025 Vision
-As I navigate my journey in robotics, I am seeking an entry-level full-time opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
+As I navigate my journey in robotics, I am seeking an full-time opportunity for Summer 2025 in **Robotics, Perception, and Planning**. If your team is driving innovation in these fields, I would love to contribute and grow as part of it.
 
 ---
 
